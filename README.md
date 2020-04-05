@@ -13,3 +13,5 @@ Rate retrieved from:
 A sample dat file is provided to recreate my calc.
 
 If you know how to use this notebook & download new quotes, make sure you update variable 'NOW' accordingly in cell 6.
+
+Please also note, the dat file used in developing this notebook was downloaded from CBOE on Sunday 22 March; making SPX historical quotes valid for Friday 20 March. The final quote for VIX, from CBOE, at 16:10 on Friday 20 March was 66.39, 0.13392 greater than the VIX calculated in the notebook.

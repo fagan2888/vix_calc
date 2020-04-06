@@ -18,6 +18,6 @@ Please also note, the dat file used in developing this notebook was downloaded f
 
 
 Package requirements:
-pandas
-numpy
-beautifulsoup4
+• pandas https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-from-pypi
+• numpy https://scipy.org/install.html#installing-via-pip
+• beautifulsoup4 https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
